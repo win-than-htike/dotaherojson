@@ -1,0 +1,47 @@
+{
+"status": "ok",
+"source": "mtv-news",
+"sortBy": "top",
+"articles": [
+{
+"author": "MTV News Staff",
+"title": "King Keraun Tells Us Why He Went To The Frontline In Houston After Hurricane Harvey",
+"description": "Keraun Harris, otherwise known as King Keraun, tells MTV News his story about bringing aid to people in Houston in the wake of Hurricane Harvey.",
+"url": "http://www.mtv.com/news/3034661/king-keraun-houston-hurricane-harvey/",
+"urlToImage": "https://imagesmtv-a.akamaihd.net/uri/mgid:ao:image:mtv.com:247511?quality=0.8&format=jpg&width=1440&height=810&.jpg",
+"publishedAt": "2017-09-07T17:02:08Z"
+},
+{
+"author": "Madeline Roth",
+"title": "Shawn Mendes Teases His New Version Of ‘Stitches’ For MTV Unplugged",
+"description": "'It's really, really beautiful,' he tells MTV News",
+"url": "http://www.mtv.com/news/3034990/shawn-mendes-new-version-stitches-mtv-unplugged/",
+"urlToImage": "https://imagesmtv-a.akamaihd.net/uri/mgid:ao:image:mtv.com:247725?quality=0.8&format=jpg&width=1440&height=810&.jpg",
+"publishedAt": "2017-09-08T13:00:04Z"
+},
+{
+"author": "Crystal Bell",
+"title": "Dylan O'Brien Opens Up About The Anger He Felt After The Accident That Nearly Ended His Career",
+"description": "'There was so much doubt and so much fear,' the actor tells MTV News",
+"url": "http://www.mtv.com/news/3035010/dylan-obrien-accident-interview/",
+"urlToImage": "https://imagesmtv-a.akamaihd.net/uri/mgid:ao:image:mtv.com:247726?quality=0.8&format=jpg&width=1440&height=810&.jpg",
+"publishedAt": "2017-09-08T14:28:25Z"
+},
+{
+"author": "Crystal Bell",
+"title": "It Star Finn Wolfhard Would Rather Take On Voldemort Than Pennywise",
+"description": "'I would punch that dude in the face'",
+"url": "http://www.mtv.com/news/3035054/finn-wolfhard-punch-voldemort-in-the-face/",
+"urlToImage": "https://imagesmtv-a.akamaihd.net/uri/mgid:ao:image:mtv.com:247741?quality=0.8&format=jpg&width=1440&height=810&.jpg",
+"publishedAt": "2017-09-08T13:59:57Z"
+},
+{
+"author": "Crystal Bell",
+"title": "Here's What Makes Bill Skarsgård's Pennywise The Clown So Damn Terrifying In It",
+"description": "Director Andy Muschietti tells MTV News that Skarsgård's performance is 'fearless'",
+"url": "http://www.mtv.com/news/3034929/it-bill-skarsgard-pennywise-so-terrifying/",
+"urlToImage": "https://imagesmtv-a.akamaihd.net/uri/mgid:ao:image:mtv.com:247697?quality=0.8&format=jpg&width=1440&height=810&.jpg",
+"publishedAt": "2017-09-07T18:45:38Z"
+}
+]
+}
